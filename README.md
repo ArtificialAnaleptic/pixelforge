@@ -26,7 +26,9 @@ No install. No server. No dependencies.
 
 That's it.
 
-Or you can access it directly on the github but that sort of defeats the point of the whole endeavour.
+Or you can access it directly on the github but that sort of defeats the point of the whole endeavour:
+
+https://artificialanaleptic.github.io/pixelforge/
 
 ---
 
