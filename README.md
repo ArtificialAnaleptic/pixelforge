@@ -1,6 +1,8 @@
 # ▓▒░ Pixel Forge Suite
 A browser-based suite of pixel art tools — drop an image, pick your settings, and export.
 ---
+<img width="1477" height="835" alt="Screenshot from 2026-03-05 17-10-34" src="https://github.com/user-attachments/assets/097340a1-5566-42bb-871e-d6a348e4dc06" />
+
 ## Inspiration
 This project originally started as a fork of **[Sora's Pixel Converter](https://pixel-converter.ameniwa.com/)** by [@ameniwa](https://x.com/ameniwa_), which is a genuinely wonderful tool and absolutely worth your time. It's beautifully designed, has a charming Win95-era UI, a mascot character who talks to you, dialog box overlays, and some effects (like animated dithering and afterimage) that go beyond what's in this repo.
 **Please go use the original. It's great.**
